@@ -7,4 +7,4 @@ hello zhangxing!
 hello zhangxing!
 hello zhangxing!
 hello zhangxing! master test
-hello zhangxing!
+hello zhangxing! hot-fix test
